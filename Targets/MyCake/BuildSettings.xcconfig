@@ -1,0 +1,6 @@
+ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES=YES
+ASSETCATALOG_COMPILER_APPICON_NAME=AppIcon
+VALIDATE_WORKSPACE=NO
+
+LD_RUNPATH_SEARCH_PATHS[config=Debug]=$(inherited) @executable_path/Frameworks
+LD_RUNPATH_SEARCH_PATHS[config=Release]=$(inherited) @executable_path/Frameworks
